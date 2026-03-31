@@ -44,17 +44,18 @@
       "typedRoutes": true,
       "reactCompiler": true
     },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "9858e7ed-da74-4f2b-8fa2-f07544205e7d"
-      }
-    },
     "runtimeVersion": {
       "policy": "appVersion"
     },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d1104c63-0956-443e-bd90-60a2d011a432"
+      }
+    },
+    "owner": "vitxr",
     "updates": {
-      "url": "https://u.expo.dev/9858e7ed-da74-4f2b-8fa2-f07544205e7d"
+      "url": "https://u.expo.dev/d1104c63-0956-443e-bd90-60a2d011a432"
     }
   }
 }
